@@ -344,7 +344,7 @@ screen -dmS pythonwe python proxy.py -p 80&
 }
 fun_bar 'inst_py'
 rm -rf proxy.py
-echo -e "                 INSTALAÇÃO CONCLUIDA "
+echo -e "                 INSTALAÇÃO CONCLUÍDA "
 
 echo 
 
